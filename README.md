@@ -1,0 +1,2 @@
+# ContinueClicker
+基于Intellitype监听全局按键的Java连点器
